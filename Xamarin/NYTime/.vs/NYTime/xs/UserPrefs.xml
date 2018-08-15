@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5A19BCA4-3F84-4CA0-85E7-96123EBE5D78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NYTime/Views/ItemsPage.xaml">
+    <Files>
+      <File FileName="NYTime/Views/ItemsPage.xaml" Line="17" Column="93" />
+      <File FileName="NYTime/ViewModels/ItemDetailViewModel.cs" Line="8" Column="6" />
+      <File FileName="NYTime/ViewModels/BaseViewModel.cs" Line="15" Column="7" />
+      <File FileName="NYTime/ViewModels/ItemsViewModel.cs" Line="51" Column="1" />
+      <File FileName="NYTime/Views/ItemsPage.xaml.cs" Line="27" Column="34" />
+      <File FileName="NYTime/Views/ItemDetailPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="NYTime/Views/ItemDetailPage.xaml" Line="9" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NYTime.Android PreferredExecutionTarget="Android.Nexus" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.NYTime.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

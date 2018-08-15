@@ -1,0 +1,9 @@
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/bin/Debug/netstandard2.0/NYTime.deps.json
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/bin/Debug/netstandard2.0/NYTime.dll
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/bin/Debug/netstandard2.0/NYTime.pdb
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.csprojResolveAssemblyReference.cache
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.csproj.CoreCompileInputs.cache
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.AssemblyInfoInputs.cache
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.AssemblyInfo.cs
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.dll
+/Volumes/My Disk/Poc Project/Xamarin/NYTime/NYTime/obj/Debug/netstandard2.0/NYTime.pdb
