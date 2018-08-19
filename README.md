@@ -12,6 +12,9 @@ As per requirement  i have developed this POC in XAMARIN Framework using visual 
 System requirements to setup and run
 
 You need following system requirements to run this application.
-	1.	 Visual studio- If you working on Mac you have to install visual studio community for windows Visual studio enterprise.
-	2.	Create the simulator/ emulator to run this application.
-	3.	If visual studio not install please instal the full version of visual studio and try to run
+
+1. Visual studio- If you working on Mac you have to install visual studio community for windows Visual studio enterprise.
+2. Create the simulator/ emulator to run this application.
+3. If visual studio not install please instal the full version of visual studio and try to run
+
+Note- Please try to open Xamarin POC project from xamarin folder. Because i have created the three solution.
